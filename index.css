@@ -1,0 +1,143 @@
+#name1
+{
+    color: aliceblue;
+    text-align: center;
+    letter-spacing: 20px;
+}
+#Department
+{
+    color: antiquewhite;
+}
+#Contact
+{
+    color: azure;
+}
+.Header
+{
+  display: flex;
+  justify-content: space-between; /* Yeh dono ko left aur right le jaata hai */
+  align-items: center;
+}
+.Butons
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#mail
+{
+    color: azure;
+}
+button
+{
+    color:aqua;
+}
+#head
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: blanchedalmond;
+}
+
+#txt
+{
+    display: flex;
+    color: antiquewhite;
+    align-items: center;
+    justify-content: center;
+
+}
+#txt1
+{
+     display: flex;
+    color: antiquewhite;
+    align-items: center;
+    justify-content: center;
+}
+#A1
+{
+font-size: larger;
+ display: flex;
+ align-items: center;
+ color:cadetblue;
+ justify-content: center;
+} 
+#B1
+{
+font-size: larger;
+ display: flex;
+ align-items: center;
+ color: cadetblue;
+ justify-content: center;
+}
+#C1
+{
+font-size: larger;
+    display: flex;
+ align-items: center;
+ color:  aqua;
+ justify-content: center;
+}
+#D1
+{
+font-size: larger;
+    display: flex;
+ align-items: center;
+ color: aqua;
+  justify-content: center;  
+}
+#E1
+{
+    font-size: larger;
+    display: flex;
+ align-items: center;
+ color:white;
+  justify-content: center; 
+} 
+#F1
+{
+    font-size: larger;
+    display: flex;
+ align-items: center;
+ color:white;
+  justify-content: center; 
+}
+#G1
+{
+    font-size: larger;
+    display: flex;
+ align-items: center;
+ color:white;
+  justify-content: center; 
+}
+#H1
+{
+    font-size: larger;
+    display: flex;
+ align-items: center;
+ color:white;
+  justify-content: center; 
+}
+#I1
+{
+    font-size: larger;
+    display: flex;
+ align-items: center;
+ color:white;
+  justify-content: center; 
+}
+#J1
+{
+    font-size: larger;
+    display: flex;
+ align-items: center;
+ color:white;
+  justify-content: center; 
+}
+#MB
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
