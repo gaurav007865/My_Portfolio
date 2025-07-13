@@ -60,6 +60,42 @@
 }
 #Img1
 {
-    width: 210;
-    height: 297;
+    width: 10%;
+    height: 97%;
 }
+/* #FB
+{
+    color: azure;
+      height: 100vh;
+      width: 20vh;
+      display: flex;
+      justify-content: center; 
+      align-items: center; 
+} */
+.Logo
+{
+    display: flex;
+    justify-content: space-between;
+   
+
+}
+/* .social-icons {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  background: #f9f9f9;
+}
+
+.social-icons a {
+  margin: 0 15px;         
+  text-decoration: none;   
+  color: #333;            
+  font-size: 40px;         
+  transition: color 0.3s;  
+}
+
+/* Optional: different hover colors */
+
